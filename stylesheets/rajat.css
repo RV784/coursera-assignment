@@ -12,12 +12,12 @@ p {
   border: 2px solid black;
   background-color: grey;
   width: 90%;
-  height: 210px;
+  height: 215px;
   margin-right: 25px;
   margin-left: 25px ;
   font-family: Helvetica;
   clear : right ;
-  padding: 10px
+  padding: 10px ;
 }
 
 /* Simple Responsive Framework. */
@@ -121,7 +121,10 @@ p {
 span {
     float: right ;
     border: 1px solid black ;
+    padding: 1px 3px 1px 3px ;
     background-color: pink ;
+    margin-top: -10px ;
+    margin-right: -10px ;
 }
 
 .red{
